@@ -1,10 +1,9 @@
-# My title
-
-  ![License](https://img.shields.io/badge/license-Apache 2.0-blue.svg)
+# README.md Generator
+  ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Description
-NOTE:
-Used Xpert Learning Assistant to assist me with the generateMarkdown function,
+Used Xpert Learning Assistant to assist me with generateMarkdown function 
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -14,20 +13,20 @@ Used Xpert Learning Assistant to assist me with the generateMarkdown function,
 * [Questions](#questions)
 
 ## Installation
-This is how to
+run node index.js inside Develop file
 
 ## Usage
-how much usage
+blank
 
 ## License
-  This project is licensed under the Apache 2.0 License.
+  This project is licensed under the ISC License.
 
 ## Contributing
-this
+blank
 
 ## Tests
-that
+blank
 
 ## Questions
-If you have any questions, please contact me at [My email](mailto:My email).
-You can find more of my work at [My username](https://github.com/My username).
+If you have any questions, please contact me at [javylopez98@hotmail.com](mailto:javylopez98@hotmail.com).
+You can find more of my work at [JavyLopez-20](https://github.com/JavyLopez-20).
